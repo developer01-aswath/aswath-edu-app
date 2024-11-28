@@ -1,0 +1,16 @@
+.sidebar-active-item {
+  color: white;
+  background-color: black;
+}
+.sidebar-active-item:hover {
+  color: white;
+  cursor: default; 
+  background-color: black !important;
+}
+.sidebar-item {
+  color: black;
+  background-color: white;
+}
+.sidebar-item:hover {
+  color: black;
+}
